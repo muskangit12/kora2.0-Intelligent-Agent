@@ -31,6 +31,7 @@ Kora 2.0 is a modular, agentic AI system built using [LangGraph](https://github.
 ## Screenshots
 
 <img width="500" height="580" alt="image" src="https://github.com/user-attachments/assets/49080785-c522-4507-8afc-17a415b44841" />
+<img width="1127" height="785" alt="Screenshot 2026-03-03 182825" src="https://github.com/user-attachments/assets/759b2899-ad0b-4dfc-b436-a20b153499ba" />
 
 <img width="500" height="580" alt="image" src="https://github.com/user-attachments/assets/45e2ecf0-9763-4500-a6c0-bea3f0d48e7d" />
 <img width="500" height="581" alt="image" src="https://github.com/user-attachments/assets/4da0bd9c-30e8-43ff-a905-643a70141646" />
@@ -74,5 +75,6 @@ cd kora-2.0
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
 pip install -r requirements.txt
+
 
 
